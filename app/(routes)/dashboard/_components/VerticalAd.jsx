@@ -16,8 +16,8 @@ const VerticalAd = () => {
     <ins
       className="adsbygoogle"
       style={{ display: "block" }}
-      data-ad-client="ca-pub-9174140322510860"
-      data-ad-slot="5320699690"
+      data-ad-client={process.env.NEXT_PUBLIC_AD_CLIENT}
+      data-ad-slot={process.env.NEXT_PUBLIC_AD_SLOT}
       data-ad-format="auto"
       data-full-width-responsive="true"
     ></ins>
