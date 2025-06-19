@@ -24,6 +24,14 @@ const CATEGORIES = [
   "Finance",
   "Marketing",
   "Gaming",
+  "Breaking News",
+  "Aviatation",
+  "Transportation",
+  "Travel",
+  "Sports",
+  "Entertainment",
+  "Shocking Events",
+  "Mysteries",
   "Other",
 ];
 
